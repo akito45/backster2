@@ -6,5 +6,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: akito45
+  owner: guests
   system: backstage-workshop
