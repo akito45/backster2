@@ -6,5 +6,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: stagecentral
+  owner: akito45
   system: backstage-workshop
